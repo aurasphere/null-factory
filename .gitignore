@@ -22,3 +22,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/null/.classpath
+/null/.project
+/null/.settings/org.eclipse.core.resources.prefs
+/null/.settings/org.eclipse.jdt.core.prefs
+/null/.settings/org.eclipse.m2e.core.prefs
