@@ -8,16 +8,13 @@ package Null;
  */
 public class NullFactory {
 
-	// null
-	private final static Object Null = null;
-
 	/**
 	 * null
-	 * 
+	 *
 	 * @return null
 	 */
-	public static Object Null() {
+	public static <Null> Null Null() {
 		// null
-		return Null;
+		return null;
 	}
 }
