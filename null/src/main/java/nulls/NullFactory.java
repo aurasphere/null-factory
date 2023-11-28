@@ -8,6 +8,9 @@ package nulls;
  */
 public class NullFactory {
 
+	private NullFactory() {
+	}
+
 	/**
 	 * null
 	 *
