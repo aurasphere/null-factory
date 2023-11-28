@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * null
  */
-public class Null {
+public class NullTests {
 
 	/**
 	 * null
