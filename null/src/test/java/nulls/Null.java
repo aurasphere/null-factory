@@ -1,4 +1,4 @@
-package Null;
+package nulls;
 
 import static org.junit.Assert.assertNull;
 
