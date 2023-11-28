@@ -13,7 +13,7 @@ public class NullFactory {
 	 *
 	 * @return null
 	 */
-	public static <Null> Null ofNull() {
+	public static <N> N ofNull() {
 		// null
 		return null;
 	}
