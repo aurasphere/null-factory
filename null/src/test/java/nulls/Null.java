@@ -14,6 +14,6 @@ public class Null {
 	 */
 	@Test
 	public void Null() {
-		assertNull(NullFactory.Null());
+		assertNull(NullFactory.ofNull());
 	}
 }
