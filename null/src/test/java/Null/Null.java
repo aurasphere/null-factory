@@ -1,19 +1,19 @@
 package Null;
 
-import static org.junit.Assert.assertNull;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 /**
  * null
  */
-public class Null {
+class Null {
 
 	/**
 	 * null
 	 */
 	@Test
-	public void Null() {
+	void Null() {
 		assertNull(NullFactory.Null());
 	}
 }
